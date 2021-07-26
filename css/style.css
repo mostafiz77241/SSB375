@@ -1,0 +1,105 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+
+.header{
+   background-color: blueviolet;
+   text-align: center;
+   height: 100px;
+
+}
+.banner{
+    background-color: brown;
+    text-align: center;
+    height: 400px;
+
+}
+
+.content{
+    overflow: hidden;
+}
+.left_content{
+    background-color: darkcyan;
+    text-align: center;
+    height: 250px;
+    width: 50%;
+    float: left;
+
+
+
+}
+.right_content{
+    background-color: darkgreen;
+    text-align: center;
+    height: 250px;
+    width: 50%;
+    float: right;
+}
+.second_content{
+    overflow: hidden;
+}
+.long_content{
+    background-color: indianred;
+    text-align: center;
+    height: 200px;
+    width: 75%;
+    float: left;
+
+}
+.sort_content{
+    background-color: mediumaquamarine;
+    text-align: center;
+    height: 200px;
+    width: 25%;
+    float: left;
+}
+.client_section{
+    overflow: hidden;
+}
+.client_one{
+    background-color: mediumorchid;
+    text-align: center;
+    height: 100px;
+    width: 25%;
+    float: left;
+
+}
+.client_two{
+    background-color: olivedrab;
+    text-align: center;
+    height: 100px;
+    width: 25%;
+    float: left;
+
+
+
+}
+.client_three{
+    background-color: steelblue;
+    text-align: center;
+    height: 100px;
+    width: 25%;
+    float: left;
+
+
+}
+.client_four{
+    background-color: saddlebrown;
+    text-align: center;
+    height: 100px;
+    width: 25%;
+    float: left;
+
+
+}
+
+.footer{
+    background-color: yellowgreen;
+    text-align: center;
+    height: 100px;
+
+
+}
+
